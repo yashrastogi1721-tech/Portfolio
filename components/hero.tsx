@@ -76,8 +76,8 @@ export function Hero() {
 
   const downloadResume = () => {
     const link = document.createElement("a")
-    link.href = "/resume.pdf"
-    link.download = "Yash_Rastogi_Resume.pdf"
+    link.href = "/Resume2.pdf"
+    link.download = "Resume2.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
