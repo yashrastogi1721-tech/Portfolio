@@ -33,8 +33,7 @@ Currently transitioning into **data science**, I aim to leverage the power of da
 ---
 
 ## 📂 Repository Structure
-"""
-my-portfolio/
+'''my-portfolio/
 │
 ├── components/ # Reusable UI components (Header, Footer, Cards, etc.)
 ├── pages/ # Pages for each route (Home, About, Projects, Contact)
@@ -42,7 +41,7 @@ my-portfolio/
 ├── styles/ # Global and component-specific CSS/Tailwind files
 ├── utils/ # Utility functions and custom hooks
 ├── package.json # Project dependencies and scripts
-└── README.md # Project documentation
+└── README.md # Project documentation'''
 ---
 
 ## 📌 Featured Projects
