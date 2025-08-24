@@ -33,12 +33,15 @@ Currently transitioning into **data science**, I aim to leverage the power of da
 ---
 
 ## 📂 Repository Structure
-components/ # Reusable UI components
-pages/ # React components for each route
-public/ # Static assets like images and fonts
-styles/ # Global and component-specific styles
-utils/ # Utility functions and hooks
-
+my-portfolio/
+│
+├── components/ # Reusable UI components (Header, Footer, Cards, etc.)
+├── pages/ # Pages for each route (Home, About, Projects, Contact)
+├── public/ # Static assets (images, fonts, icons)
+├── styles/ # Global and component-specific CSS/Tailwind files
+├── utils/ # Utility functions and custom hooks
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
 ---
 
 ## 📌 Featured Projects
