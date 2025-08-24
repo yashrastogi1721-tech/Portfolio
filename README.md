@@ -33,6 +33,7 @@ Currently transitioning into **data science**, I aim to leverage the power of da
 ---
 
 ## 📂 Repository Structure
+"""
 my-portfolio/
 │
 ├── components/ # Reusable UI components (Header, Footer, Cards, etc.)
