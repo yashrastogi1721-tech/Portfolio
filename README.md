@@ -33,4 +33,35 @@ Currently transitioning into **data science**, I aim to leverage the power of da
 ---
 
 ## 📂 Repository Structure
+components/ # Reusable UI components
+pages/ # React components for each route
+public/ # Static assets like images and fonts
+styles/ # Global and component-specific styles
+utils/ # Utility functions and hooks
+
+---
+
+## 📌 Featured Projects
+
+- **Sales Analytics Dashboard:** Interactive dashboard built with React and D3.js  
+- **Customer Churn Prediction:** ML model using Random Forest & XGBoost (89% accuracy)  
+- **E-commerce Data Pipeline:** Automated ETL processing 1M+ daily transactions  
+
+---
+
+## 🧭 My Journey
+
+- **B.Tech in Computer Science** – Moradabad Institute of Technology, India  
+- **Python Essentials 1 & 2** – Cisco Networking Academy  
+- **Introduction to Machine Learning** – NPTEL  
+
+---
+
+## 📬 Get in Touch
+
+- **LinkedIn:** [https://www.linkedin.com/in/yash-rastogi-207a1037a/](https://www.linkedin.com/in/yash-rastogi-207a1037a/)  
+- **Email:** [yashrastogi1721@gmail.com](mailto:yashrastogi1721@gmail.com)  
+
+---
+
 
